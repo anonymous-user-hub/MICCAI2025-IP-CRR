@@ -8,7 +8,7 @@ The development of AI-based methods for analyzing radiology reports could lead t
 ### Qualitative results
 
 Example 1: Lung Opacity  
-![result_lo](images/result_lo.png)
+![result_lo]([images/result_lo.png](https://github.com/anonymous-user-hub/MICCAI2025-IP-CRR/blob/main/images/result-lo.png))
 
-Example 2: Cardiomegaly
-![result_ca](images/result_ca.png)
+Example 2: Cardiomegaly   
+![result_ca]([images/result_ca.png](https://github.com/anonymous-user-hub/MICCAI2025-IP-CRR/blob/main/images/result-ca.png))
