@@ -8,7 +8,7 @@ The development of AI-based methods for analyzing radiology reports could lead t
 ### Qualitative results
 
 Example 1: Lung Opacity  
-![result_lo]([images/result_lo.png](images/result-lo.png))
+![result_lo](images/result-lo.png)
 
 Example 2: Cardiomegaly   
-![result_ca]([images/result_ca.png](images/result-ca.png))
+![result_ca](images/result-ca.png)
